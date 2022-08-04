@@ -1,6 +1,6 @@
 # Efficient-Processing-of-data-using-clouds-
 ## Plotting Correlation Matrix for the whole 22777 Genes through  Multithreading Spark and Multithreading  Hadoop
-<p align="center"> <img src="https://user-images.githubusercontent.com/110364476/182516391-018202cd-a0ca-4472-8307-6da5566d63c8.png" alt=" (Positive )" />
+<p align="center"> <img src="https://user-images.githubusercontent.com/110364476/182747026-702ea4bc-6689-4b2d-b276-120466b6129c.PNG " />
 </p>
 
 ### Overview
