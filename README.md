@@ -1,6 +1,9 @@
 # Efficient-Processing-of-data-using-clouds-
 ## Comparing MapReduce and Spark in Computing the PCC Matrix in Gene Co-expression Networks 
-<p align="center"> <img src="https://user-images.githubusercontent.com/110364476/182516391-018202cd-a0ca-4472-8307-6da5566d63c8.png" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/110364476/182516391-018202cd-a0ca-4472-8307-6da5566d63c8.png" alt="Plotting Correlation Matrix for whole  22777 Genes (Positive )
+
+![image](https://user-images.githubusercontent.com/110364476/182746157-fbd318f6-94ca-4aa8-a148-5b7cbfb275c9.png)
+" /> </p>
 
 ### Overview
 
